@@ -1,5 +1,4 @@
 @import "tailwindcss";
 body {
-  background-color: black;
-  color: blue;
+  @apply bg-black text-slate-100;
 }
